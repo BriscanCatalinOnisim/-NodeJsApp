@@ -1,0 +1,22 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "nodejsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriscanCatalinOnisim/-NodeJsApp.git"
+  },
+  "author": "catalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriscanCatalinOnisim/-NodeJsApp/issues"
+  },
+  "homepage": "https://github.com/BriscanCatalinOnisim/-NodeJsApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
